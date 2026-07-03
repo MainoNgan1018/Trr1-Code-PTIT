@@ -44,4 +44,4 @@ int main(){
     for(int i=1;i<=n;i++) cout<<luu[i]<<" ";
 }
 ```
-###Bài này giống với bài 02 nhưng đã được tối ưu với n<=15!
+### Bài này giống với bài 02 nhưng đã được tối ưu với n<=15!
