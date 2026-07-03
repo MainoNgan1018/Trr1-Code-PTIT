@@ -41,4 +41,4 @@ int main(){
     for(int i=1;i<=n;i++) cout<<luu[i]<<" ";
 }
 ```
-###Lưu ý: Code này ngắn thỏa mãn yêu cầu đề bài với n<=10 chứ chưa tối ưu!
+### Lưu ý: Code này ngắn thỏa mãn yêu cầu đề bài với n<=10 chứ chưa tối ưu!
